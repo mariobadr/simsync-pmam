@@ -1,4 +1,4 @@
-#include "simsync/simulate.hpp"
+#include "simsync/estimate.hpp"
 
 #include "simsync/application.hpp"
 #include "simsync/core.hpp"
@@ -144,7 +144,7 @@ void progress(int32_t const next_thread,
 }
 
 nanoseconds
-simulate(application const &app, system &sys, std::deque<std::unique_ptr<report>> const &reports)
+estimate(application const &app, system &sys, std::deque<std::unique_ptr<report>> const &reports)
 {
   thread_tracker threads(app.threads());
 

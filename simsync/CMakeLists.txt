@@ -12,7 +12,7 @@ add_library(
   include/simsync/architecture.hpp
   include/simsync/core.hpp
   include/simsync/core_type.hpp
-  include/simsync/simulate.hpp
+  include/simsync/estimate.hpp
   include/simsync/system.hpp
   include/simsync/thread.hpp
   include/simsync/reports/report.hpp
@@ -37,7 +37,7 @@ add_library(
   src/architecture.cpp
   src/core.cpp
   src/core_type.cpp
-  src/simulate.cpp
+  src/estimate.cpp
   src/system.cpp
   src/thread.cpp
   src/reports/criticality_stack.cpp

@@ -14,7 +14,7 @@ class system;
 class report;
 
 /**
- * Simulate how an simsync::application would run on a ryhthm::system.
+ * Simulate how an simsync::application would run on a simsync::system.
  *
  * @param app The application to run.
  * @param sys The system to run the application on.
@@ -23,7 +23,7 @@ class report;
  * @return an estimate of the application's execution time.
  */
 std::chrono::nanoseconds
-simulate(application const &app, system &sys, std::deque<std::unique_ptr<report>> const &reports);
+estimate(application const &app, system &sys, std::deque<std::unique_ptr<report>> const &reports);
 }
 
 #endif //SIMSYNC_SIMULATE_HPP

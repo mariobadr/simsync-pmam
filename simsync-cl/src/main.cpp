@@ -1,6 +1,6 @@
 #include <simsync/application.hpp>
 #include <simsync/architecture.hpp>
-#include <simsync/simulate.hpp>
+#include <simsync/estimate.hpp>
 #include <simsync/system.hpp>
 
 #include <simsync/reports/event_trace.hpp>
@@ -143,7 +143,7 @@ int main(int argc, char **argv)
         split(args["r"].as<std::string>()), split(args["o"].as<std::string>()), system);
 
     start = high_resolution_clock::now();
-    auto const execution_time = simsync::simulate(application, system, reports);
+    auto const execution_time = simsync::estimate(application, system, reports);
     end = high_resolution_clock::now();
     std::cout << "Perf: Estimation completed in "
               << std::chrono::duration<double, std::milli>(end - start).count() << "ms\n";
