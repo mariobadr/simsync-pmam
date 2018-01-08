@@ -1,0 +1,798 @@
+{
+  "architecture": {
+    "core.types": [
+      {
+        "id": 0,
+        "frequency.levels": [
+          {
+            "id": 0,
+            "frequency": 2602139800
+          }
+        ],
+        "threads": [
+          {
+            "tid": 0,
+            "cpi.rate": 0.6921
+          },
+          {
+            "tid": 1,
+            "cpi.rate": 2.1542
+          },
+          {
+            "tid": 2,
+            "cpi.rate": 2.1669
+          },
+          {
+            "tid": 3,
+            "cpi.rate": 2.1603
+          },
+          {
+            "tid": 4,
+            "cpi.rate": 2.1617
+          },
+          {
+            "tid": 5,
+            "cpi.rate": 2.1598
+          },
+          {
+            "tid": 6,
+            "cpi.rate": 2.1675
+          },
+          {
+            "tid": 7,
+            "cpi.rate": 2.1663
+          },
+          {
+            "tid": 8,
+            "cpi.rate": 2.1653
+          },
+          {
+            "tid": 9,
+            "cpi.rate": 2.1708
+          },
+          {
+            "tid": 10,
+            "cpi.rate": 2.1645
+          },
+          {
+            "tid": 11,
+            "cpi.rate": 2.1731
+          },
+          {
+            "tid": 12,
+            "cpi.rate": 2.1646
+          },
+          {
+            "tid": 13,
+            "cpi.rate": 2.1687
+          },
+          {
+            "tid": 14,
+            "cpi.rate": 2.1669
+          },
+          {
+            "tid": 15,
+            "cpi.rate": 2.167
+          },
+          {
+            "tid": 16,
+            "cpi.rate": 2.168
+          },
+          {
+            "tid": 17,
+            "cpi.rate": 2.1481
+          },
+          {
+            "tid": 18,
+            "cpi.rate": 2.1622
+          },
+          {
+            "tid": 19,
+            "cpi.rate": 2.1752
+          },
+          {
+            "tid": 20,
+            "cpi.rate": 2.1739
+          },
+          {
+            "tid": 21,
+            "cpi.rate": 2.1741
+          },
+          {
+            "tid": 22,
+            "cpi.rate": 2.1733
+          },
+          {
+            "tid": 23,
+            "cpi.rate": 2.1754
+          },
+          {
+            "tid": 24,
+            "cpi.rate": 2.179
+          },
+          {
+            "tid": 25,
+            "cpi.rate": 2.1713
+          },
+          {
+            "tid": 26,
+            "cpi.rate": 2.1776
+          },
+          {
+            "tid": 27,
+            "cpi.rate": 2.1662
+          },
+          {
+            "tid": 28,
+            "cpi.rate": 2.1724
+          },
+          {
+            "tid": 29,
+            "cpi.rate": 2.17
+          },
+          {
+            "tid": 30,
+            "cpi.rate": 2.1641
+          },
+          {
+            "tid": 31,
+            "cpi.rate": 2.1746
+          },
+          {
+            "tid": 32,
+            "cpi.rate": 2.1666
+          },
+          {
+            "tid": 33,
+            "cpi.rate": 2.1473
+          },
+          {
+            "tid": 34,
+            "cpi.rate": 2.1633
+          },
+          {
+            "tid": 35,
+            "cpi.rate": 2.1709
+          },
+          {
+            "tid": 36,
+            "cpi.rate": 2.1662
+          },
+          {
+            "tid": 37,
+            "cpi.rate": 2.1655
+          },
+          {
+            "tid": 38,
+            "cpi.rate": 2.1659
+          },
+          {
+            "tid": 39,
+            "cpi.rate": 2.163
+          },
+          {
+            "tid": 40,
+            "cpi.rate": 2.1698
+          },
+          {
+            "tid": 41,
+            "cpi.rate": 2.1664
+          },
+          {
+            "tid": 42,
+            "cpi.rate": 2.1712
+          },
+          {
+            "tid": 43,
+            "cpi.rate": 2.1709
+          },
+          {
+            "tid": 44,
+            "cpi.rate": 2.1639
+          },
+          {
+            "tid": 45,
+            "cpi.rate": 2.1682
+          },
+          {
+            "tid": 46,
+            "cpi.rate": 2.1634
+          },
+          {
+            "tid": 47,
+            "cpi.rate": 2.1701
+          },
+          {
+            "tid": 48,
+            "cpi.rate": 2.1679
+          },
+          {
+            "tid": 49,
+            "cpi.rate": 2.1532
+          },
+          {
+            "tid": 50,
+            "cpi.rate": 2.1701
+          },
+          {
+            "tid": 51,
+            "cpi.rate": 2.1689
+          },
+          {
+            "tid": 52,
+            "cpi.rate": 2.166
+          },
+          {
+            "tid": 53,
+            "cpi.rate": 2.163
+          },
+          {
+            "tid": 54,
+            "cpi.rate": 2.1606
+          },
+          {
+            "tid": 55,
+            "cpi.rate": 2.1705
+          },
+          {
+            "tid": 56,
+            "cpi.rate": 2.168
+          },
+          {
+            "tid": 57,
+            "cpi.rate": 2.1668
+          },
+          {
+            "tid": 58,
+            "cpi.rate": 2.1683
+          },
+          {
+            "tid": 59,
+            "cpi.rate": 2.1646
+          },
+          {
+            "tid": 60,
+            "cpi.rate": 2.1657
+          },
+          {
+            "tid": 61,
+            "cpi.rate": 2.1684
+          },
+          {
+            "tid": 62,
+            "cpi.rate": 2.1669
+          },
+          {
+            "tid": 63,
+            "cpi.rate": 2.1728
+          },
+          {
+            "tid": 64,
+            "cpi.rate": 2.1601
+          },
+          {
+            "tid": 65,
+            "cpi.rate": 2.1448
+          },
+          {
+            "tid": 66,
+            "cpi.rate": 2.175
+          },
+          {
+            "tid": 67,
+            "cpi.rate": 2.1721
+          },
+          {
+            "tid": 68,
+            "cpi.rate": 2.1687
+          },
+          {
+            "tid": 69,
+            "cpi.rate": 2.1653
+          },
+          {
+            "tid": 70,
+            "cpi.rate": 2.1673
+          },
+          {
+            "tid": 71,
+            "cpi.rate": 2.1663
+          },
+          {
+            "tid": 72,
+            "cpi.rate": 2.1678
+          },
+          {
+            "tid": 73,
+            "cpi.rate": 2.1679
+          },
+          {
+            "tid": 74,
+            "cpi.rate": 2.1751
+          },
+          {
+            "tid": 75,
+            "cpi.rate": 2.1604
+          },
+          {
+            "tid": 76,
+            "cpi.rate": 2.1702
+          },
+          {
+            "tid": 77,
+            "cpi.rate": 2.1677
+          },
+          {
+            "tid": 78,
+            "cpi.rate": 2.1648
+          },
+          {
+            "tid": 79,
+            "cpi.rate": 2.1662
+          },
+          {
+            "tid": 80,
+            "cpi.rate": 2.1607
+          },
+          {
+            "tid": 81,
+            "cpi.rate": 2.6209
+          },
+          {
+            "tid": 82,
+            "cpi.rate": 2.556
+          },
+          {
+            "tid": 83,
+            "cpi.rate": 2.5603
+          },
+          {
+            "tid": 84,
+            "cpi.rate": 2.5598
+          },
+          {
+            "tid": 85,
+            "cpi.rate": 2.6017
+          },
+          {
+            "tid": 86,
+            "cpi.rate": 2.6011
+          },
+          {
+            "tid": 87,
+            "cpi.rate": 2.6093
+          },
+          {
+            "tid": 88,
+            "cpi.rate": 2.6014
+          },
+          {
+            "tid": 89,
+            "cpi.rate": 2.5774
+          },
+          {
+            "tid": 90,
+            "cpi.rate": 2.5618
+          },
+          {
+            "tid": 91,
+            "cpi.rate": 2.5796
+          },
+          {
+            "tid": 92,
+            "cpi.rate": 2.5977
+          },
+          {
+            "tid": 93,
+            "cpi.rate": 2.5642
+          },
+          {
+            "tid": 94,
+            "cpi.rate": 2.5622
+          },
+          {
+            "tid": 95,
+            "cpi.rate": 2.562
+          },
+          {
+            "tid": 96,
+            "cpi.rate": 2.5433
+          }
+        ]
+      }
+    ],
+    "cores": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+  },
+  "system": {
+    "static.frequencies": [
+      {
+        "tid": 0,
+        "level": 0
+      },
+      {
+        "tid": 1,
+        "level": 0
+      },
+      {
+        "tid": 2,
+        "level": 0
+      },
+      {
+        "tid": 3,
+        "level": 0
+      },
+      {
+        "tid": 4,
+        "level": 0
+      },
+      {
+        "tid": 5,
+        "level": 0
+      },
+      {
+        "tid": 6,
+        "level": 0
+      },
+      {
+        "tid": 7,
+        "level": 0
+      },
+      {
+        "tid": 8,
+        "level": 0
+      },
+      {
+        "tid": 9,
+        "level": 0
+      },
+      {
+        "tid": 10,
+        "level": 0
+      },
+      {
+        "tid": 11,
+        "level": 0
+      },
+      {
+        "tid": 12,
+        "level": 0
+      },
+      {
+        "tid": 13,
+        "level": 0
+      },
+      {
+        "tid": 14,
+        "level": 0
+      },
+      {
+        "tid": 15,
+        "level": 0
+      },
+      {
+        "tid": 16,
+        "level": 0
+      },
+      {
+        "tid": 17,
+        "level": 0
+      },
+      {
+        "tid": 18,
+        "level": 0
+      },
+      {
+        "tid": 19,
+        "level": 0
+      },
+      {
+        "tid": 20,
+        "level": 0
+      },
+      {
+        "tid": 21,
+        "level": 0
+      },
+      {
+        "tid": 22,
+        "level": 0
+      },
+      {
+        "tid": 23,
+        "level": 0
+      },
+      {
+        "tid": 24,
+        "level": 0
+      },
+      {
+        "tid": 25,
+        "level": 0
+      },
+      {
+        "tid": 26,
+        "level": 0
+      },
+      {
+        "tid": 27,
+        "level": 0
+      },
+      {
+        "tid": 28,
+        "level": 0
+      },
+      {
+        "tid": 29,
+        "level": 0
+      },
+      {
+        "tid": 30,
+        "level": 0
+      },
+      {
+        "tid": 31,
+        "level": 0
+      },
+      {
+        "tid": 32,
+        "level": 0
+      },
+      {
+        "tid": 33,
+        "level": 0
+      },
+      {
+        "tid": 34,
+        "level": 0
+      },
+      {
+        "tid": 35,
+        "level": 0
+      },
+      {
+        "tid": 36,
+        "level": 0
+      },
+      {
+        "tid": 37,
+        "level": 0
+      },
+      {
+        "tid": 38,
+        "level": 0
+      },
+      {
+        "tid": 39,
+        "level": 0
+      },
+      {
+        "tid": 40,
+        "level": 0
+      },
+      {
+        "tid": 41,
+        "level": 0
+      },
+      {
+        "tid": 42,
+        "level": 0
+      },
+      {
+        "tid": 43,
+        "level": 0
+      },
+      {
+        "tid": 44,
+        "level": 0
+      },
+      {
+        "tid": 45,
+        "level": 0
+      },
+      {
+        "tid": 46,
+        "level": 0
+      },
+      {
+        "tid": 47,
+        "level": 0
+      },
+      {
+        "tid": 48,
+        "level": 0
+      },
+      {
+        "tid": 49,
+        "level": 0
+      },
+      {
+        "tid": 50,
+        "level": 0
+      },
+      {
+        "tid": 51,
+        "level": 0
+      },
+      {
+        "tid": 52,
+        "level": 0
+      },
+      {
+        "tid": 53,
+        "level": 0
+      },
+      {
+        "tid": 54,
+        "level": 0
+      },
+      {
+        "tid": 55,
+        "level": 0
+      },
+      {
+        "tid": 56,
+        "level": 0
+      },
+      {
+        "tid": 57,
+        "level": 0
+      },
+      {
+        "tid": 58,
+        "level": 0
+      },
+      {
+        "tid": 59,
+        "level": 0
+      },
+      {
+        "tid": 60,
+        "level": 0
+      },
+      {
+        "tid": 61,
+        "level": 0
+      },
+      {
+        "tid": 62,
+        "level": 0
+      },
+      {
+        "tid": 63,
+        "level": 0
+      },
+      {
+        "tid": 64,
+        "level": 0
+      },
+      {
+        "tid": 65,
+        "level": 0
+      },
+      {
+        "tid": 66,
+        "level": 0
+      },
+      {
+        "tid": 67,
+        "level": 0
+      },
+      {
+        "tid": 68,
+        "level": 0
+      },
+      {
+        "tid": 69,
+        "level": 0
+      },
+      {
+        "tid": 70,
+        "level": 0
+      },
+      {
+        "tid": 71,
+        "level": 0
+      },
+      {
+        "tid": 72,
+        "level": 0
+      },
+      {
+        "tid": 73,
+        "level": 0
+      },
+      {
+        "tid": 74,
+        "level": 0
+      },
+      {
+        "tid": 75,
+        "level": 0
+      },
+      {
+        "tid": 76,
+        "level": 0
+      },
+      {
+        "tid": 77,
+        "level": 0
+      },
+      {
+        "tid": 78,
+        "level": 0
+      },
+      {
+        "tid": 79,
+        "level": 0
+      },
+      {
+        "tid": 80,
+        "level": 0
+      },
+      {
+        "tid": 81,
+        "level": 0
+      },
+      {
+        "tid": 82,
+        "level": 0
+      },
+      {
+        "tid": 83,
+        "level": 0
+      },
+      {
+        "tid": 84,
+        "level": 0
+      },
+      {
+        "tid": 85,
+        "level": 0
+      },
+      {
+        "tid": 86,
+        "level": 0
+      },
+      {
+        "tid": 87,
+        "level": 0
+      },
+      {
+        "tid": 88,
+        "level": 0
+      },
+      {
+        "tid": 89,
+        "level": 0
+      },
+      {
+        "tid": 90,
+        "level": 0
+      },
+      {
+        "tid": 91,
+        "level": 0
+      },
+      {
+        "tid": 92,
+        "level": 0
+      },
+      {
+        "tid": 93,
+        "level": 0
+      },
+      {
+        "tid": 94,
+        "level": 0
+      },
+      {
+        "tid": 95,
+        "level": 0
+      },
+      {
+        "tid": 96,
+        "level": 0
+      }
+    ]
+  }
+}

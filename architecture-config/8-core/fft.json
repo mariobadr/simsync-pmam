@@ -1,0 +1,86 @@
+{
+  "architecture": {
+    "core.types": [
+      {
+        "id": 0,
+        "frequency.levels": [
+          {
+            "id": 0,
+            "frequency": 2600625300
+          }
+        ],
+        "threads": [
+          {
+            "tid": 0,
+            "cpi.rate": 0.6175
+          },
+          {
+            "tid": 1,
+            "cpi.rate": 0.6954
+          },
+          {
+            "tid": 2,
+            "cpi.rate": 0.6942
+          },
+          {
+            "tid": 3,
+            "cpi.rate": 0.6935
+          },
+          {
+            "tid": 4,
+            "cpi.rate": 0.6928
+          },
+          {
+            "tid": 5,
+            "cpi.rate": 0.6895
+          },
+          {
+            "tid": 6,
+            "cpi.rate": 0.6991
+          },
+          {
+            "tid": 7,
+            "cpi.rate": 0.7628
+          }
+        ]
+      }
+    ],
+    "cores": [0, 0, 0, 0, 0, 0, 0, 0]
+  },
+  "system": {
+    "static.frequencies": [
+      {
+        "tid": 0,
+        "level": 0
+      },
+      {
+        "tid": 1,
+        "level": 0
+      },
+      {
+        "tid": 2,
+        "level": 0
+      },
+      {
+        "tid": 3,
+        "level": 0
+      },
+      {
+        "tid": 4,
+        "level": 0
+      },
+      {
+        "tid": 5,
+        "level": 0
+      },
+      {
+        "tid": 6,
+        "level": 0
+      },
+      {
+        "tid": 7,
+        "level": 0
+      }
+    ]
+  }
+}

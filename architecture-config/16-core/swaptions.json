@@ -1,0 +1,158 @@
+{
+  "architecture": {
+    "core.types": [
+      {
+        "id": 0,
+        "frequency.levels": [
+          {
+            "id": 0,
+            "frequency": 2600806000
+          }
+        ],
+        "threads": [
+          {
+            "tid": 0,
+            "cpi.rate": 6.0254
+          },
+          {
+            "tid": 1,
+            "cpi.rate": 0.8249
+          },
+          {
+            "tid": 2,
+            "cpi.rate": 0.8271
+          },
+          {
+            "tid": 3,
+            "cpi.rate": 0.8209
+          },
+          {
+            "tid": 4,
+            "cpi.rate": 0.8247
+          },
+          {
+            "tid": 5,
+            "cpi.rate": 0.8258
+          },
+          {
+            "tid": 6,
+            "cpi.rate": 0.8245
+          },
+          {
+            "tid": 7,
+            "cpi.rate": 0.824
+          },
+          {
+            "tid": 8,
+            "cpi.rate": 0.8234
+          },
+          {
+            "tid": 9,
+            "cpi.rate": 0.8233
+          },
+          {
+            "tid": 10,
+            "cpi.rate": 0.8238
+          },
+          {
+            "tid": 11,
+            "cpi.rate": 0.8273
+          },
+          {
+            "tid": 12,
+            "cpi.rate": 0.8229
+          },
+          {
+            "tid": 13,
+            "cpi.rate": 0.8258
+          },
+          {
+            "tid": 14,
+            "cpi.rate": 0.8259
+          },
+          {
+            "tid": 15,
+            "cpi.rate": 0.8237
+          },
+          {
+            "tid": 16,
+            "cpi.rate": 0.8251
+          }
+        ]
+      }
+    ],
+    "cores": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+  },
+  "system": {
+    "static.frequencies": [
+      {
+        "tid": 0,
+        "level": 0
+      },
+      {
+        "tid": 1,
+        "level": 0
+      },
+      {
+        "tid": 2,
+        "level": 0
+      },
+      {
+        "tid": 3,
+        "level": 0
+      },
+      {
+        "tid": 4,
+        "level": 0
+      },
+      {
+        "tid": 5,
+        "level": 0
+      },
+      {
+        "tid": 6,
+        "level": 0
+      },
+      {
+        "tid": 7,
+        "level": 0
+      },
+      {
+        "tid": 8,
+        "level": 0
+      },
+      {
+        "tid": 9,
+        "level": 0
+      },
+      {
+        "tid": 10,
+        "level": 0
+      },
+      {
+        "tid": 11,
+        "level": 0
+      },
+      {
+        "tid": 12,
+        "level": 0
+      },
+      {
+        "tid": 13,
+        "level": 0
+      },
+      {
+        "tid": 14,
+        "level": 0
+      },
+      {
+        "tid": 15,
+        "level": 0
+      },
+      {
+        "tid": 16,
+        "level": 0
+      }
+    ]
+  }
+}

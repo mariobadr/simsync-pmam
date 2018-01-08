@@ -1,0 +1,286 @@
+{
+  "architecture": {
+    "core.types": [
+      {
+        "id": 0,
+        "frequency.levels": [
+          {
+            "id": 0,
+            "frequency": 2601162200
+          }
+        ],
+        "threads": [
+          {
+            "tid": 0,
+            "cpi.rate": 2.2026
+          },
+          {
+            "tid": 1,
+            "cpi.rate": 6.8202
+          },
+          {
+            "tid": 2,
+            "cpi.rate": 7.4017
+          },
+          {
+            "tid": 3,
+            "cpi.rate": 7.0715
+          },
+          {
+            "tid": 4,
+            "cpi.rate": 6.9824
+          },
+          {
+            "tid": 5,
+            "cpi.rate": 7.4348
+          },
+          {
+            "tid": 6,
+            "cpi.rate": 7.563
+          },
+          {
+            "tid": 7,
+            "cpi.rate": 7.5914
+          },
+          {
+            "tid": 8,
+            "cpi.rate": 6.9013
+          },
+          {
+            "tid": 9,
+            "cpi.rate": 7.2016
+          },
+          {
+            "tid": 10,
+            "cpi.rate": 7.504
+          },
+          {
+            "tid": 11,
+            "cpi.rate": 7.0087
+          },
+          {
+            "tid": 12,
+            "cpi.rate": 7.4412
+          },
+          {
+            "tid": 13,
+            "cpi.rate": 7.2237
+          },
+          {
+            "tid": 14,
+            "cpi.rate": 6.9023
+          },
+          {
+            "tid": 15,
+            "cpi.rate": 6.9001
+          },
+          {
+            "tid": 16,
+            "cpi.rate": 7.5464
+          },
+          {
+            "tid": 17,
+            "cpi.rate": 7.0376
+          },
+          {
+            "tid": 18,
+            "cpi.rate": 6.8979
+          },
+          {
+            "tid": 19,
+            "cpi.rate": 7.349
+          },
+          {
+            "tid": 20,
+            "cpi.rate": 6.9011
+          },
+          {
+            "tid": 21,
+            "cpi.rate": 7.5928
+          },
+          {
+            "tid": 22,
+            "cpi.rate": 7.4019
+          },
+          {
+            "tid": 23,
+            "cpi.rate": 7.0421
+          },
+          {
+            "tid": 24,
+            "cpi.rate": 7.2348
+          },
+          {
+            "tid": 25,
+            "cpi.rate": 7.35
+          },
+          {
+            "tid": 26,
+            "cpi.rate": 7.5604
+          },
+          {
+            "tid": 27,
+            "cpi.rate": 7.5768
+          },
+          {
+            "tid": 28,
+            "cpi.rate": 7.3926
+          },
+          {
+            "tid": 29,
+            "cpi.rate": 7.2982
+          },
+          {
+            "tid": 30,
+            "cpi.rate": 6.9185
+          },
+          {
+            "tid": 31,
+            "cpi.rate": 6.8843
+          },
+          {
+            "tid": 32,
+            "cpi.rate": 7.5591
+          }
+        ]
+      }
+    ],
+    "cores": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+  },
+  "system": {
+    "static.frequencies": [
+      {
+        "tid": 0,
+        "level": 0
+      },
+      {
+        "tid": 1,
+        "level": 0
+      },
+      {
+        "tid": 2,
+        "level": 0
+      },
+      {
+        "tid": 3,
+        "level": 0
+      },
+      {
+        "tid": 4,
+        "level": 0
+      },
+      {
+        "tid": 5,
+        "level": 0
+      },
+      {
+        "tid": 6,
+        "level": 0
+      },
+      {
+        "tid": 7,
+        "level": 0
+      },
+      {
+        "tid": 8,
+        "level": 0
+      },
+      {
+        "tid": 9,
+        "level": 0
+      },
+      {
+        "tid": 10,
+        "level": 0
+      },
+      {
+        "tid": 11,
+        "level": 0
+      },
+      {
+        "tid": 12,
+        "level": 0
+      },
+      {
+        "tid": 13,
+        "level": 0
+      },
+      {
+        "tid": 14,
+        "level": 0
+      },
+      {
+        "tid": 15,
+        "level": 0
+      },
+      {
+        "tid": 16,
+        "level": 0
+      },
+      {
+        "tid": 17,
+        "level": 0
+      },
+      {
+        "tid": 18,
+        "level": 0
+      },
+      {
+        "tid": 19,
+        "level": 0
+      },
+      {
+        "tid": 20,
+        "level": 0
+      },
+      {
+        "tid": 21,
+        "level": 0
+      },
+      {
+        "tid": 22,
+        "level": 0
+      },
+      {
+        "tid": 23,
+        "level": 0
+      },
+      {
+        "tid": 24,
+        "level": 0
+      },
+      {
+        "tid": 25,
+        "level": 0
+      },
+      {
+        "tid": 26,
+        "level": 0
+      },
+      {
+        "tid": 27,
+        "level": 0
+      },
+      {
+        "tid": 28,
+        "level": 0
+      },
+      {
+        "tid": 29,
+        "level": 0
+      },
+      {
+        "tid": 30,
+        "level": 0
+      },
+      {
+        "tid": 31,
+        "level": 0
+      },
+      {
+        "tid": 32,
+        "level": 0
+      }
+    ]
+  }
+}
